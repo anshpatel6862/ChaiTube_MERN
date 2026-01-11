@@ -1,0 +1,4 @@
+node_modules
+.env
+.DS_Store
+Chai_aur_Backend/public/temp/
